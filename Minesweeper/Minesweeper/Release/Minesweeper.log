@@ -1,0 +1,29 @@
+﻿  Board.cpp
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(18,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(19,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(145,44): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(148,48): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(163,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(163,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(168,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(168,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(176,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(176,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(181,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(181,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(189,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(189,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(194,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(194,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(202,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(202,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(207,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(207,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(217,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Minesweeper\Board.cpp(217,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 719 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Minesweeper.vcxproj -> C:\Users\emely\OneDrive\Desktop\Test\Minesweeper\Minesweeper\Release\Minesweeper.exe
